@@ -78,4 +78,18 @@ Ordo Caudata memiliki bentuk tubuh seperti ular, kepala yang kecil namun tidak p
 4.	Praktikan tidak diperkenankan untuk menyiksa hewan yang akan dijadikan sampel
 
   """;
+
+  static const String Salamander = """ 
+Salamander adalah nama umum bagi sekitar 550 spesies amfibi.Mereka secara umum dicirikan 
+oleh penampilan mirip kadal, dengan tubuh ramping, hidung pendek, dan ekor yang panjang.
+ Semua fosil dan spesisnya yang telah punah dimasukkan ke dalam ordo Caudata, 
+ sedangkan spesiesnya yang masih ada digolongkan bersama ke dalam Urodela.
+  Sebagian besar salamander memiliki empat jari pada kaki depan mereka dan lima jari 
+  pada kaki belakang mereka. Kulit mereka yang lembap menjadikan mereka lebih suka 
+  tinggal di habitat di atau dekat air, atau dalam tempat yang terlindung (misalnya 
+  tanah lembap), sering kali di lahan basah. Beberapa spesies Salamander sepenuhnya 
+  tinggal di air sepanjang hidup mereka, sebagian tinggal di air untuk sementara, dan 
+  sebagian lagi tinggal di darat ketika dewasa. Mereka makhluk vertebrata yang unik
+ karena mereka dapat menumbuhkan kembali bagian tubuh yang hilang.
+""";
 }
